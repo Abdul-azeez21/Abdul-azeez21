@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working with **ReactJS, JavaScript, Tailwind CSS, framer-motion, React-three-fiber**
 
-- 🌱 I’m currently exploring **the different areas of web development development**
+- 🌱 I’m currently exploring **the different areas of web development**
 
-- 👯 I’m looking to collaborate on **web projects that will give me the medium to showcase and improve my skills**
+- 👯 I’m looking to collaborate on **interesting open source projects and web development gigs**
 
-- 🤝 I’m looking for help with **finding interesting open source projects to contribute to and web developement roles**
+- 🤝 I’m looking for help with **web developement roles and finding interesting open source projects to contribute to**
 
 - 💬 Ask me about **web development**
 
