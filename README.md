@@ -6,17 +6,15 @@
 
 - 🔭 I’m currently working with **ReactJS, JavaScript, Tailwind CSS, framer-motion, React-three-fiber**
 
-- 🌱 I’m currently learning **more of React, React-three-fiber and firebase**
+- 🌱 I’m currently exploring **the different areas of web development development**
 
 - 👯 I’m looking to collaborate on **web projects that will give me the medium to showcase and improve my skills**
 
-- 🤝 I’m looking for help with **landing more web development gigs and roles**
+- 🤝 I’m looking for help with **finding interesting open source projects to contribute to and web developement roles**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **web development**
 
 - 📫 How to reach me **abdulazeezojo24@gmail.com**
-
-- ⚡ Fun fact **I love listening to Afrobeats music, playing basketball and watching movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
