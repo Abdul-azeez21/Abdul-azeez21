@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **interesting open source projects and web development gigs**
 
-- 🤝 I’m looking for help with **web developement roles and finding interesting open source projects to contribute to**
+- 🤝 I’m looking for help with **web development roles and finding interesting open source projects to contribute to**
 
 - 💬 Ask me about **web development**
 
