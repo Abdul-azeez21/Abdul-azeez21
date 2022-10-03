@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/azeez_ti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azeez_ti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul-azeez-ojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-azeez ojo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul-azeez ojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-azeez ojo" height="30" width="40" /></a>
 <a href="https://www.behance.net/abdul-azeez ojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abdul-azeez ojo" height="30" width="40" /></a>
 </p>
 
