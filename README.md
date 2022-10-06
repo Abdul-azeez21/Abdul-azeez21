@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-azeez21&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-azeez21" /> </p>
 
-- 🔭 I’m currently working with **ReactJS, JavaScript, Tailwind CSS, framer-motion, React-three-fiber**
+- 🔭 I’m currently working with **ReactJS**
 
 - 🌱 I’m currently exploring **the different areas of web development**
 
 - 👯 I’m looking to collaborate on **interesting open source projects and web development gigs**
 
-- 🤝 I’m looking for help with **web development roles and finding interesting open source projects to contribute to**
+- 🤝 I’m looking for help with **frontend web development roles and finding interesting open source projects to contribute to**
 
 - 💬 Ask me about **web development**
 
