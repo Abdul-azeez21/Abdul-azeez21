@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdul-azeez</h1>
 <h3 align="center">A frontend developer from West Africa</h3>
 
-- 🔭 I’m currently working with **ReactJS, JavaScript and Nextjs**
+- 🔭 I’m currently working with **JavaScript, Typescript, ReactJS and Nextjs**
 
-- 🌱 I’m currently learning **more of React, React-three-fiber and Nextjs**
+- 🌱 I’m currently learning **more of Javascript, Typescript, React, Nextjs **
 
 - 👯 I’m looking to collaborate on **web projects that will give me the medium to showcase and improve my skills**
 
-- 💬 Ask me about **react and web development**
+- 💬 Ask me about **Frontend Web development**
 
 - 📫 How to reach me **abdulazeezojo24@gmail.com**
 
